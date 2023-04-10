@@ -3,3 +3,9 @@ kaggle
 torch 
 torchvision 
 torchaudio 
+pandas
+numpy
+matplot
+seaborn
+scipy
+scikit-learn
