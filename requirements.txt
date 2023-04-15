@@ -9,3 +9,5 @@ matplot
 seaborn
 scipy
 scikit-learn
+pillow
+tqdm
