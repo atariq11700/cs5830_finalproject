@@ -1,8 +1,4 @@
 kaggle
---index-url https://download.pytorch.org/whl/cu118
-torch 
-torchvision 
-torchaudio 
 pandas
 numpy
 matplot
@@ -11,3 +7,7 @@ scipy
 scikit-learn
 pillow
 tqdm
+--index-url https://download.pytorch.org/whl/cu118
+torch 
+torchvision 
+torchaudio 
