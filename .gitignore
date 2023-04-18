@@ -2,4 +2,4 @@
 data/
 preprocessed-data/
 __pycache__/
-kernel-images/
+interpretability-images/
